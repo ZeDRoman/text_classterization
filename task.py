@@ -111,7 +111,7 @@ def cluster(ver, eds, num_of_clusters):
 t_start = time.time()
 
 # input file
-filename = 'test_5.txt'
+filename = 'data/test_5.txt'
 
 # function of distance
 distance = distance_1
